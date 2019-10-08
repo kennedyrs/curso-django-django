@@ -200,3 +200,4 @@ Temporary Items
 docker*
 requirements.txt
 env
+.vscode
